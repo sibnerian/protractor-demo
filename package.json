@@ -16,5 +16,10 @@
     "protractor": "1.0.0-rc1",
     "mkdirp": "~0.3.5"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "grunt-phantom": "~0.2.1",
+    "phantomjs": "~1.9.7-14",
+    "grunt-protractor-runner": "~1.0.1"
+  }
 }
